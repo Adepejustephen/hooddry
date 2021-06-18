@@ -411,7 +411,7 @@ aad
 
 footer {
     background-color: #2a4ea5;
-    padding: 20px 0;
+    padding: 10vh 0;
     position: relative;
 }
 
@@ -459,7 +459,7 @@ footer .btn a:hover{
 @media only screen and (max-width: 767px) {
     .footer-content {
         flex-direction: column;
-        padding-top: 20vh;
+        padding-top: 10vh;
     }
 
     .footer-content .btn {
