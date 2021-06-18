@@ -422,7 +422,7 @@ footer {
 }
 
 footer p {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color: #fff;
 }
 
@@ -459,6 +459,7 @@ footer .btn a:hover{
 @media only screen and (max-width: 767px) {
     .footer-content {
         flex-direction: column;
+        padding-top: 10vh;
     }
 
     .footer-content .btn {
